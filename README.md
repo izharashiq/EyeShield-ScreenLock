@@ -30,7 +30,7 @@ EyeShield uses your webcam + AI to detect when you're not looking at your screen
 
 ---
 
-## 🧪 Live Demo
+## 🧪 Demo
 
 📽️ **Watch it in action**: [Instagram Reel](https://www.instagram.com/reel/DMZ_gtyS2bC)
 
