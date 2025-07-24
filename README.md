@@ -89,7 +89,7 @@ MIT License - see LICENSE file for details.
 Free to use, modify, distribute. Just don't be evil. 😇
 
 👨‍💻 Author
-Created by: @izharashiq
+Created by: [Github Profile](https://www.github.com/izharashiq)
 Motivation: Built for developers who value privacy, focus, and a touch of sci-fi coolness.
 
 🌟 Support
