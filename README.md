@@ -94,7 +94,7 @@ python Screen_Privacy.py
 
 ### 📄 License
 
-MIT License - see LICENSE file for details.
+MIT License - see [LICENSE](https://github.com/izharashiq/EyeShield-ScreenLock/blob/main/LICENSE) file for details.
 
 Free to use, modify, distribute. Just don't be evil. 😇
 
