@@ -70,32 +70,36 @@ python Screen_Privacy.py
 
 *Press 'CTRL + C' in terminal to quit*
 
-🎯 Use Cases
+### 🎯 Use Cases
 
 👨‍💻 Remote Work: Protect sensitive documents during video calls
+
 🎓 Students: Privacy during online exams or study sessions
+
 💼 Professionals: Secure confidential information in open offices
+
 🏠 Home Users: Family privacy when stepping away from computer
-🎮 Content Creators: Cool effect for streams and videos
+
+### Privacy of Data
 
 🛡️ Zero data collection — Nothing is stored, logged, or transmitted
+
 📱 Local processing — All AI runs on your device
+
 🌐 No internet required — Works completely offline
+
 🔐 Open source — Full code transparency
+
 👀 Webcam respect — Feed never leaves your machine
 
-📄 License
+### 📄 License
+
 MIT License - see LICENSE file for details.
+
 Free to use, modify, distribute. Just don't be evil. 😇
 
-👨‍💻 Author
+### 👨‍💻 Author
+
 Created by: [Github Profile](https://www.github.com/izharashiq)
-Motivation: Built for developers who value privacy, focus, and a touch of sci-fi coolness.
 
-🌟 Support
-Found this useful? Show some love:
-
-⭐ Star the repo
-🐛 Report bugs
-💡 Suggest features
-🤝 Follow on instagram
+🤝 Follow on [Instagram](https://www.instagram.com/i_izhar9?igsh=OWZ2MTZvbW9pbXE1)
